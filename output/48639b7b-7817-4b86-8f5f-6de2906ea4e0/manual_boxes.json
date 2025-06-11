@@ -1,0 +1,13 @@
+[
+  {
+    "class_name": "window",
+    "type": "wall_door",
+    "confidence": 1,
+    "box": {
+      "x1": 335,
+      "y1": 483,
+      "width": 134,
+      "height": 11
+    }
+  }
+]

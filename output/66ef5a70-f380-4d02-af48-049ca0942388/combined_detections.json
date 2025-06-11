@@ -1,0 +1,42 @@
+[
+  {
+    "name": "slider",
+    "class_name": "slider",
+    "confidence": 1,
+    "x1": 318.151173721805,
+    "y1": 983.7926068029269,
+    "x2": 1001.0242342055064,
+    "y2": 983.7926068029269,
+    "width": 682.8730604837015,
+    "height": 18.889014084507043,
+    "orientation": "Horizontal",
+    "x": 659.5877039636557,
+    "y": 983.7926068029269,
+    "type": "wall_door",
+    "keypoints": [],
+    "TopX": null,
+    "TopY": null,
+    "BottomX": null,
+    "BottomY": null
+  },
+  {
+    "name": "wall",
+    "class_name": "wall",
+    "confidence": 1,
+    "x1": 1076.517738379584,
+    "y1": 548.241386925066,
+    "x2": 1453.985259249972,
+    "y2": 548.241386925066,
+    "width": 377.4675208703879,
+    "height": 10.303098591549295,
+    "orientation": "Horizontal",
+    "x": 1265.251498814778,
+    "y": 548.241386925066,
+    "type": "wall_door",
+    "keypoints": [],
+    "TopX": null,
+    "TopY": null,
+    "BottomX": null,
+    "BottomY": null
+  }
+]

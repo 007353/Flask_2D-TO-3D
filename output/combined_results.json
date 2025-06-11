@@ -1,0 +1,10 @@
+{
+    "confidence_threshold": 0.75,
+    "timestamp": "2025-05-08T14:56:20.355429",
+    "furniture_s3_path": "s3://royaletouch/Furni4oraThemeThumb/FURNITURE.json",
+    "wall_s3_path": "s3://royaletouch/Furni4oraThemeThumb/WALL.json",
+    "scale_factors": {
+        "scale_x": 3.602181818181818,
+        "scale_y": 3.5528834355828223
+    }
+}

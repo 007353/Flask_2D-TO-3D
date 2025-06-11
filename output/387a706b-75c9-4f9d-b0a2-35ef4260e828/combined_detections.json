@@ -1,0 +1,24 @@
+[
+  {
+    "class_name": "window",
+    "type": "wall_door",
+    "confidence": 1,
+    "box": {
+      "x1": 333,
+      "y1": 487,
+      "width": 138,
+      "height": 11
+    }
+  },
+  {
+    "class_name": "window",
+    "type": "wall_door",
+    "confidence": 1,
+    "box": {
+      "x1": 326,
+      "y1": 483,
+      "width": 149,
+      "height": 13
+    }
+  }
+]

@@ -1,0 +1,2804 @@
+{
+    "A1": {
+        "center_x": 1125.4153846153847,
+        "center_y": 831.2727272727273,
+        "x_scale": 2.8135384615384615,
+        "y_scale": 2.770909090909091
+    },
+    "A2": {
+        "name": "door",
+        "confidence": 0.9358323812484741,
+        "x1": 658.7548100210337,
+        "y1": 936.107089399858,
+        "x2": 736.17683203125,
+        "y2": 936.107089399858,
+        "TopX": 667.732580453726,
+        "TopY": 903.2595383522727,
+        "BottomX": 669.1044036959134,
+        "BottomY": 972.2148219992898,
+        "width": 77.42202201021635,
+        "height": 74.99288552024147,
+        "facing": "Downwards facing",
+        "slope": "-28.84",
+        "angle": "-88.01",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 661.2336998572716,
+                "y": 970.3316388494319,
+                "confidence": 0.9999909400939941,
+                "class_id": 0,
+                "class_name": "bottom"
+            },
+            {
+                "x": 663.7144786658654,
+                "y": 899.8764044744319,
+                "confidence": 0.9998501539230347,
+                "class_id": 1,
+                "class_name": "top"
+            }
+        ]
+    },
+    "A3": {
+        "name": "door",
+        "confidence": 0.9350155591964722,
+        "x1": 583.109452373798,
+        "y1": 820.9308638139205,
+        "x2": 679.8712026742788,
+        "y2": 820.9308638139205,
+        "TopX": 674.8304370117187,
+        "TopY": 769.341200949929,
+        "BottomX": 667.732580453726,
+        "BottomY": 864.4734068714489,
+        "width": 96.76175030048077,
+        "height": 87.39390447443182,
+        "facing": "Downwards facing",
+        "slope": "25.23",
+        "angle": "-92.27",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 678.0190652794471,
+                "y": 864.0704716352983,
+                "confidence": 0.9999592304229736,
+                "class_id": 0,
+                "class_name": "bottom"
+            },
+            {
+                "x": 674.7653962590144,
+                "y": 783.2124050071023,
+                "confidence": 0.9999508857727051,
+                "class_id": 1,
+                "class_name": "top"
+            }
+        ]
+    },
+    "A4": {
+        "name": "door",
+        "confidence": 0.934354841709137,
+        "x1": 1700.1898323317307,
+        "y1": 1309.8600053267046,
+        "x2": 1700.1898323317307,
+        "y2": 1426.4592307350854,
+        "TopX": 1645.8509237154447,
+        "TopY": 1412.7093723366477,
+        "BottomX": 1749.497677734375,
+        "BottomY": 1417.680908203125,
+        "width": 107.31166090745192,
+        "height": 116.59922540838069,
+        "facing": "Rightside facing",
+        "slope": "0.03",
+        "angle": "-178.49",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 1749.497677734375,
+                "y": 1417.680908203125,
+                "confidence": 0.9999456405639648,
+                "class_id": 0,
+                "class_name": "bottom"
+            },
+            {
+                "x": 1649.1036053185096,
+                "y": 1415.069735662287,
+                "confidence": 0.9999839067459106,
+                "class_id": 1,
+                "class_name": "top"
+            }
+        ]
+    },
+    "A5": {
+        "name": "door",
+        "confidence": 0.9267570376396179,
+        "x1": 1791.5669810697116,
+        "y1": 1069.11491155451,
+        "x2": 1791.5669810697116,
+        "y2": 1150.6213952636717,
+        "TopX": 1755.0609589092549,
+        "TopY": 1062.665368652344,
+        "BottomX": 1764.7998993389424,
+        "BottomY": 1149.0216620427911,
+        "width": 81.13084750600962,
+        "height": 81.50648370916194,
+        "facing": "Downwards facing",
+        "slope": "38.11",
+        "angle": "-91.5",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 1758.2707522536057,
+                "y": 1146.6960957475142,
+                "confidence": 0.9999942779541016,
+                "class_id": 0,
+                "class_name": "bottom"
+            },
+            {
+                "x": 1756.3477783954327,
+                "y": 1074.5195288085938,
+                "confidence": 0.9999897480010986,
+                "class_id": 1,
+                "class_name": "top"
+            }
+        ]
+    },
+    "A6": {
+        "name": "door",
+        "confidence": 0.9211662411689758,
+        "x1": 833.5332651742789,
+        "y1": 685.0782892955434,
+        "x2": 833.5332651742789,
+        "y2": 779.8773654452237,
+        "TopX": 777.1288940805289,
+        "TopY": 781.6279774058949,
+        "BottomX": 877.2250240384616,
+        "BottomY": 770.3035946377842,
+        "width": 93.78567435396634,
+        "height": 94.7990761496804,
+        "facing": "Rightside facing",
+        "slope": "0.02",
+        "angle": "-178.76",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 879.2614221003606,
+                "y": 772.4719189453125,
+                "confidence": 0.999983549118042,
+                "class_id": 0,
+                "class_name": "bottom"
+            },
+            {
+                "x": 791.8616763822115,
+                "y": 770.6020965021307,
+                "confidence": 0.9999959468841553,
+                "class_id": 1,
+                "class_name": "top"
+            }
+        ]
+    },
+    "A7": {
+        "name": "door",
+        "confidence": 0.9178747534751892,
+        "x1": 1824.5855309495191,
+        "y1": 1312.4245845170453,
+        "x2": 1824.5855309495191,
+        "y2": 1428.7704638671876,
+        "TopX": 1781.0993266225962,
+        "TopY": 1417.9871897194603,
+        "BottomX": 1865.6882814753606,
+        "BottomY": 1413.475245250355,
+        "width": 91.75545838341345,
+        "height": 116.34587935014206,
+        "facing": "Rightside facing",
+        "slope": "0.02",
+        "angle": "-179.04",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 1869.8686631610576,
+                "y": 1419.4531467507102,
+                "confidence": 0.9999626874923706,
+                "class_id": 0,
+                "class_name": "bottom"
+            },
+            {
+                "x": 1781.0993266225962,
+                "y": 1417.9871897194603,
+                "confidence": 0.9999960660934448,
+                "class_id": 1,
+                "class_name": "top"
+            }
+        ]
+    },
+    "A8": {
+        "name": "door",
+        "confidence": 0.914725661277771,
+        "x1": 309.1969874267578,
+        "y1": 557.0368236194957,
+        "x2": 385.19019504018934,
+        "y2": 557.0368236194957,
+        "TopX": 391.3703008188101,
+        "TopY": 595.3193494762074,
+        "BottomX": 310.2009976994441,
+        "BottomY": 587.6051480379972,
+        "width": 75.9932076134315,
+        "height": 72.26028275923295,
+        "facing": "Leftside facing",
+        "slope": "-0.02",
+        "angle": "-1.19",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 310.3372076322115,
+                "y": 591.8496669699929,
+                "confidence": 0.9998548030853271,
+                "class_id": 0,
+                "class_name": "bottom"
+            },
+            {
+                "x": 383.93311613581733,
+                "y": 590.3489974698153,
+                "confidence": 0.9999736547470093,
+                "class_id": 1,
+                "class_name": "top"
+            }
+        ]
+    },
+    "A9": {
+        "name": "door",
+        "confidence": 0.9131377935409546,
+        "x1": 1207.9765276442308,
+        "y1": 516.627894786488,
+        "x2": 1207.9765276442308,
+        "y2": 599.2965485728871,
+        "TopX": 1164.343756234976,
+        "TopY": 596.7179533247514,
+        "BottomX": 1242.7943666240988,
+        "BottomY": 587.8610732199929,
+        "width": 74.46672475961539,
+        "height": 82.66865378639915,
+        "facing": "Rightside facing",
+        "slope": "0.02",
+        "angle": "-178.94",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 1243.371061298077,
+                "y": 592.7662706409801,
+                "confidence": 0.9997385144233704,
+                "class_id": 0,
+                "class_name": "bottom"
+            },
+            {
+                "x": 1174.4185902944712,
+                "y": 591.5055864923651,
+                "confidence": 0.9998964071273804,
+                "class_id": 1,
+                "class_name": "top"
+            }
+        ]
+    },
+    "A10": {
+        "name": "door",
+        "confidence": 0.912775456905365,
+        "x1": 721.1303944561298,
+        "y1": 683.4263605291193,
+        "x2": 721.1303944561298,
+        "y2": 778.7303107244319,
+        "TopX": 674.8304370117187,
+        "TopY": 769.341200949929,
+        "BottomX": 777.1288940805289,
+        "BottomY": 781.6279774058949,
+        "width": 91.34585190054086,
+        "height": 95.30395019531251,
+        "facing": "Rightside facing",
+        "slope": "0.05",
+        "angle": "-177.12",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 763.2451189903846,
+                "y": 774.9572640713778,
+                "confidence": 0.9999940395355225,
+                "class_id": 0,
+                "class_name": "bottom"
+            },
+            {
+                "x": 682.8054636418269,
+                "y": 770.9665562855114,
+                "confidence": 0.9999933242797852,
+                "class_id": 1,
+                "class_name": "top"
+            }
+        ]
+    },
+    "A11": {
+        "name": "wall",
+        "confidence": 0.911238968372345,
+        "x1": 1326.2955739182694,
+        "y1": 609.8666222034801,
+        "x2": 1484.1353563701923,
+        "y2": 609.8666222034801,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 157.83978245192307,
+        "height": 23.980354447798295,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 1405.4411114783654,
+                "y": 609.7831177867542,
+                "confidence": 0.9997126460075378,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.0004304733593016863,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A12": {
+        "name": "wall",
+        "confidence": 0.9101034998893738,
+        "x1": 1865.6882814753606,
+        "y1": 1413.475245250355,
+        "x2": 2107.3900220102164,
+        "y2": 1413.475245250355,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 241.70174053485576,
+        "height": 25.24108087713068,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 1984.7363852163462,
+                "y": 1412.8379902787642,
+                "confidence": 0.9999431371688843,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 5.3385690989671275e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A13": {
+        "name": "wall",
+        "confidence": 0.9080982208251953,
+        "x1": 960.0597246093749,
+        "y1": 1062.200027077415,
+        "x2": 1081.993233623798,
+        "y2": 1062.200027077415,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 121.93350901442308,
+        "height": 23.768950861150568,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 1020.6189762620193,
+                "y": 1060.889324840199,
+                "confidence": 0.9998639822006226,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.0001295723777730018,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A14": {
+        "name": "wall",
+        "confidence": 0.9068642854690552,
+        "x1": 177.8725060096154,
+        "y1": 1160.0223859197442,
+        "x2": 715.0623283503605,
+        "y2": 1160.0223859197442,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 537.1898223407452,
+        "height": 25.271607555042614,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 447.85684221003606,
+                "y": 1160.480624334162,
+                "confidence": 0.9999798536300659,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 1.4220002412912436e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A15": {
+        "name": "wall",
+        "confidence": 0.9060078263282776,
+        "x1": 828.9367514648436,
+        "y1": 1412.7093723366477,
+        "x2": 1645.8509237154447,
+        "y2": 1412.7093723366477,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 816.9141722506009,
+        "height": 24.636128373579545,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 1229.592038311298,
+                "y": 1412.281153231534,
+                "confidence": 0.9999750852584839,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 3.585551894502714e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A16": {
+        "name": "door",
+        "confidence": 0.8992295861244202,
+        "x1": 969.3263360877404,
+        "y1": 882.2333799050072,
+        "x2": 969.3263360877404,
+        "y2": 967.6890517356179,
+        "TopX": 1000.2949216496394,
+        "TopY": 887.4199132191052,
+        "BottomX": 930.9466250751202,
+        "BottomY": 885.7923592862217,
+        "width": 76.73718366887019,
+        "height": 85.4556718306108,
+        "facing": "Leftside facing",
+        "slope": "0.02",
+        "angle": "1.37",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 930.9466250751202,
+                "y": 885.7923592862217,
+                "confidence": 0.9999655485153198,
+                "class_id": 0,
+                "class_name": "bottom"
+            },
+            {
+                "x": 1000.2949216496394,
+                "y": 887.4199132191052,
+                "confidence": 0.9999171495437622,
+                "class_id": 1,
+                "class_name": "top"
+            }
+        ]
+    },
+    "A17": {
+        "name": "door",
+        "confidence": 0.8985716104507446,
+        "x1": 1983.5532016225961,
+        "y1": 1071.1843412642045,
+        "x2": 1983.5532016225961,
+        "y2": 1151.9582692649149,
+        "TopX": 1950.5559456129808,
+        "TopY": 1074.9119784268466,
+        "BottomX": 1955.4032204026441,
+        "BottomY": 1148.1198566228693,
+        "width": 77.49663641826923,
+        "height": 80.77392800071023,
+        "facing": "Downwards facing",
+        "slope": "78.53",
+        "angle": "-90.73",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 1951.5249884314903,
+                "y": 1149.8616530539773,
+                "confidence": 0.999984622001648,
+                "class_id": 0,
+                "class_name": "bottom"
+            },
+            {
+                "x": 1950.5559456129808,
+                "y": 1074.9119784268466,
+                "confidence": 0.9999957084655762,
+                "class_id": 1,
+                "class_name": "top"
+            }
+        ]
+    },
+    "A20": {
+        "name": "wall",
+        "confidence": 0.8954495191574097,
+        "x1": 2022.7445697115384,
+        "y1": 413.83824928977276,
+        "x2": 2107.055588040865,
+        "y2": 413.83824928977276,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 84.31101832932693,
+        "height": 27.18552878639915,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 2065.098764423077,
+                "y": 414.5072147993608,
+                "confidence": 0.9998847246170044,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.00028578945784829557,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A21": {
+        "name": "wall",
+        "confidence": 0.8942608833312988,
+        "x1": 190.87374462890625,
+        "y1": 205.50988719593397,
+        "x2": 190.87374462890625,
+        "y2": 840.0396551513672,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 23.09827883676382,
+        "height": 634.5297679554333,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 189.36773995267427,
+                "y": 522.4840066805752,
+                "confidence": 0.9999957084655762,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 5.770907137048198e-06,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A22": {
+        "name": "wall",
+        "confidence": 0.8936166167259216,
+        "x1": 720.9845142728366,
+        "y1": 294.4218808260831,
+        "x2": 833.7630329026442,
+        "y2": 294.4218808260831,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 112.77851862980769,
+        "height": 22.85353105024858,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 778.4215522085336,
+                "y": 294.39577248313213,
+                "confidence": 0.9999402761459351,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 1.9900340703316033e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A23": {
+        "name": "wall",
+        "confidence": 0.8862457275390625,
+        "x1": 1755.0609589092549,
+        "y1": 1062.665368652344,
+        "x2": 2112.247943734976,
+        "y2": 1062.665368652344,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 357.18698482572114,
+        "height": 27.028371360085227,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 1934.8184017427884,
+                "y": 1062.9993863192472,
+                "confidence": 0.9999779462814331,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 2.232226324849762e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A24": {
+        "name": "wall",
+        "confidence": 0.8854709267616272,
+        "x1": 957.5703595628005,
+        "y1": 1057.7481212269176,
+        "x2": 1300.0061016751802,
+        "y2": 1057.7481212269176,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 342.4357421123798,
+        "height": 16.8492041015625,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 1121.485635216346,
+                "y": 1057.9378770862927,
+                "confidence": 0.9992660880088806,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.0012828540056943893,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A25": {
+        "name": "wall",
+        "confidence": 0.8852602243423462,
+        "x1": 775.0286144080528,
+        "y1": 1157.5709499289774,
+        "x2": 896.1615425931491,
+        "y2": 1157.5709499289774,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 121.13292818509615,
+        "height": 22.744066273082385,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 834.8172512019231,
+                "y": 1156.8903995028409,
+                "confidence": 0.9999233484268188,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 1.3881412087357603e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A26": {
+        "name": "wall",
+        "confidence": 0.8846215605735779,
+        "x1": 1337.0618577223559,
+        "y1": 208.23145468971944,
+        "x2": 1337.0618577223559,
+        "y2": 776.5158792946556,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 23.30991887019231,
+        "height": 568.2844246049361,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 1336.5143991887019,
+                "y": 490.89959206321026,
+                "confidence": 0.9999957084655762,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 1.838900629991258e-06,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A27": {
+        "name": "wall",
+        "confidence": 0.8826751112937927,
+        "x1": 1109.6021101262018,
+        "y1": 293.1684055397727,
+        "x2": 1183.7846304086538,
+        "y2": 293.1684055397727,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 74.18252028245192,
+        "height": 23.341767633611507,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 1145.181934795673,
+                "y": 292.9183573774858,
+                "confidence": 0.999913215637207,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 4.010390330222435e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A29": {
+        "name": "wall",
+        "confidence": 0.8817533254623413,
+        "x1": 1589.572298076923,
+        "y1": 1049.876720081676,
+        "x2": 1589.572298076923,
+        "y2": 1142.572119140625,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 23.703512019230768,
+        "height": 92.69539905894887,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 1589.325873046875,
+                "y": 1096.3318126331676,
+                "confidence": 0.999803364276886,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.00010782250319607556,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A30": {
+        "name": "wall",
+        "confidence": 0.8809812068939209,
+        "x1": 1416.7749456129807,
+        "y1": 1134.5815709339488,
+        "x2": 1600.591532451923,
+        "y2": 1134.5815709339488,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 183.8165868389423,
+        "height": 13.9154296875,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 1508.5901642127403,
+                "y": 1134.6734046519887,
+                "confidence": 0.999906063079834,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.00010966532863676548,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A31": {
+        "name": "wall",
+        "confidence": 0.8803870677947998,
+        "x1": 180.28107455679088,
+        "y1": 769.341200949929,
+        "x2": 674.8304370117187,
+        "y2": 769.341200949929,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 494.54936245492786,
+        "height": 16.90230868252841,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 433.648850773738,
+                "y": 769.2141051136364,
+                "confidence": 0.99998939037323,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 2.3001310182735324e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A32": {
+        "name": "wall",
+        "confidence": 0.878108561038971,
+        "x1": 1425.2793567457932,
+        "y1": 1050.6519793146308,
+        "x2": 1425.2793567457932,
+        "y2": 1141.0146666370738,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 16.169431640625,
+        "height": 90.36268732244318,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 1425.4568342848559,
+                "y": 1096.2433613725143,
+                "confidence": 0.9998538494110107,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 7.798874867148697e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A33": {
+        "name": "wall",
+        "confidence": 0.8775998950004578,
+        "x1": 1426.7202133413462,
+        "y1": 1230.9093909801136,
+        "x2": 1426.7202133413462,
+        "y2": 1422.6081338778408,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 16.30492247596154,
+        "height": 191.69874289772727,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 1426.2635972055289,
+                "y": 1325.2290460759943,
+                "confidence": 0.9999593496322632,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 4.256677129887976e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A34": {
+        "name": "wall",
+        "confidence": 0.8770775198936462,
+        "x1": 840.8876355919472,
+        "y1": 883.6522784978692,
+        "x2": 840.8876355919472,
+        "y2": 1169.3709907670454,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 20.369304086538463,
+        "height": 285.71871226917614,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 841.7441986929086,
+                "y": 1035.9659412730823,
+                "confidence": 0.9996358156204224,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.0005595095572061837,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A35": {
+        "name": "wall",
+        "confidence": 0.8744162917137146,
+        "x1": 777.1288940805289,
+        "y1": 284.8634579190341,
+        "x2": 777.1288940805289,
+        "y2": 781.6279774058949,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 19.112708158052886,
+        "height": 496.7645194868608,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 777.4974154146635,
+                "y": 531.1094421386719,
+                "confidence": 0.9999834299087524,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 1.5740310118417256e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A36": {
+        "name": "wall",
+        "confidence": 0.8740527033805847,
+        "x1": 1764.7998993389424,
+        "y1": 1149.0216620427911,
+        "x2": 1764.7998993389424,
+        "y2": 1423.9575229714135,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 23.577122596153846,
+        "height": 274.93586092862216,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 1765.9231509915865,
+                "y": 1286.638758877841,
+                "confidence": 0.9998764991760254,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 6.444620521506295e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A37": {
+        "name": "wall",
+        "confidence": 0.8724546432495117,
+        "x1": 176.06634255277194,
+        "y1": 217.95468783291903,
+        "x2": 244.0177548029973,
+        "y2": 217.95468783291903,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 67.95141225022536,
+        "height": 24.830429410067474,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 208.9792012094351,
+                "y": 218.57860323819247,
+                "confidence": 0.9998279809951782,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 2.492700150469318e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A38": {
+        "name": "wall",
+        "confidence": 0.8723155856132507,
+        "x1": 188.63462548828124,
+        "y1": 1094.3457182173297,
+        "x2": 188.63462548828124,
+        "y2": 1171.128515625,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 22.931373103215144,
+        "height": 76.78279740767046,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 189.5173551494892,
+                "y": 1132.9232366388494,
+                "confidence": 0.9992294311523438,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.00012730498565360904,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A39": {
+        "name": "wall",
+        "confidence": 0.8709390759468079,
+        "x1": 392.22729323167067,
+        "y1": 689.6519636119496,
+        "x2": 392.22729323167067,
+        "y2": 775.04510226163,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 15.041028245192308,
+        "height": 85.3931386496804,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 392.47689516977164,
+                "y": 731.1981591796875,
+                "confidence": 0.9995087385177612,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.00035672946250997484,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A40": {
+        "name": "wall",
+        "confidence": 0.8683450818061829,
+        "x1": 177.40691725510817,
+        "y1": 323.5869716574929,
+        "x2": 254.98379206730772,
+        "y2": 323.5869716574929,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 77.57687481219952,
+        "height": 22.58498507412997,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 215.94905842472957,
+                "y": 323.5194916326349,
+                "confidence": 0.999954342842102,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 1.1194584658369422e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A41": {
+        "name": "wall",
+        "confidence": 0.8674250245094299,
+        "x1": 371.612530066857,
+        "y1": 294.67947609641334,
+        "x2": 444.5463108285757,
+        "y2": 294.67947609641334,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 72.93378076171875,
+        "height": 22.91682528409091,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 407.67299087289666,
+                "y": 293.99998268821025,
+                "confidence": 0.9992218017578125,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 3.348097743582912e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A44": {
+        "name": "wall",
+        "confidence": 0.8626956939697266,
+        "x1": 331.0914113018329,
+        "y1": 326.39800514914776,
+        "x2": 398.34333494215747,
+        "y2": 326.39800514914776,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 67.25192364032452,
+        "height": 21.52722722833807,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 365.3417643479567,
+                "y": 324.326630526456,
+                "confidence": 0.9998003840446472,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 6.572848360519856e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A45": {
+        "name": "slider",
+        "confidence": 0.8625909090042114,
+        "x1": 190.48352157827523,
+        "y1": 836.8052014160157,
+        "x2": 190.48352157827523,
+        "y2": 1092.8576483709162,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 25.06165094463642,
+        "height": 256.0524469549006,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 190.49468368765025,
+                "y": 962.5563840553978,
+                "confidence": 0.9999935626983643,
+                "class_id": 0,
+                "class_name": "window"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 9.70600467553595e-06,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A46": {
+        "name": "wall",
+        "confidence": 0.8599761128425598,
+        "x1": 1284.4331989182692,
+        "y1": 322.74476090864704,
+        "x2": 1349.3497946213943,
+        "y2": 322.74476090864704,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 64.916595703125,
+        "height": 23.560295521129262,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 1317.855387845553,
+                "y": 323.34125726873225,
+                "confidence": 0.999920129776001,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 2.33930168178631e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A48": {
+        "name": "wall",
+        "confidence": 0.8575963377952576,
+        "x1": 1164.343756234976,
+        "y1": 203.3647115811435,
+        "x2": 1164.343756234976,
+        "y2": 596.7179533247514,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 17.090048076923075,
+        "height": 393.35324174360795,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 1163.6203656850962,
+                "y": 400.38976784446027,
+                "confidence": 0.9999666213989258,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 8.875602361513302e-06,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A49": {
+        "name": "slider",
+        "confidence": 0.8514548540115356,
+        "x1": 835.0959604867788,
+        "y1": 295.79999966708095,
+        "x2": 1110.6393276742788,
+        "y2": 295.79999966708095,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 275.5433671875,
+        "height": 21.08587996049361,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 971.3664262319711,
+                "y": 295.45809664639563,
+                "confidence": 0.9998592138290405,
+                "class_id": 0,
+                "class_name": "window"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 7.906743849162012e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A50": {
+        "name": "slider",
+        "confidence": 0.8487637639045715,
+        "x1": 1073.0427674278847,
+        "y1": 1164.3028434614703,
+        "x2": 1073.0427674278847,
+        "y2": 1329.1693129660866,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 18.70220012019231,
+        "height": 164.86646950461648,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 1073.6103177584134,
+                "y": 1246.3577503551137,
+                "confidence": 0.9994553923606873,
+                "class_id": 0,
+                "class_name": "window"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.00056653463980183,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A51": {
+        "name": "wall",
+        "confidence": 0.8471819758415222,
+        "x1": 391.3703008188101,
+        "y1": 204.4062970525568,
+        "x2": 391.3703008188101,
+        "y2": 595.3193494762074,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 14.111052809495192,
+        "height": 390.9130524236506,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 392.04496446814903,
+                "y": 400.902041015625,
+                "confidence": 0.9995673298835754,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.0004345764173194766,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A52": {
+        "name": "wall",
+        "confidence": 0.847148597240448,
+        "x1": 175.94475605656552,
+        "y1": 587.6051480379972,
+        "x2": 310.2009976994441,
+        "y2": 587.6051480379972,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 134.2562416428786,
+        "height": 14.521566051136364,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 246.02473963341347,
+                "y": 586.6754373446378,
+                "confidence": 0.9998366832733154,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.0006288340664468706,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A54": {
+        "name": "slider",
+        "confidence": 0.8466697335243225,
+        "x1": 1484.4567392578124,
+        "y1": 614.0643786621094,
+        "x2": 2022.7714446364184,
+        "y2": 614.0643786621094,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 538.3147053786058,
+        "height": 24.423963734019885,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 1749.1210853365385,
+                "y": 613.6920123845881,
+                "confidence": 0.9998356103897095,
+                "class_id": 0,
+                "class_name": "window"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.0001678246771916747,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A55": {
+        "name": "wall",
+        "confidence": 0.8446794748306274,
+        "x1": 1153.7841431790864,
+        "y1": 324.6742203036222,
+        "x2": 1209.9616658653847,
+        "y2": 324.6742203036222,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 56.177522686298076,
+        "height": 22.769159878817472,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 1184.509223031851,
+                "y": 324.0541735839844,
+                "confidence": 0.9998841285705566,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 1.4714192730025388e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A56": {
+        "name": "wall",
+        "confidence": 0.8430015444755554,
+        "x1": 1475.7376721754808,
+        "y1": 403.6199512273615,
+        "x2": 1475.7376721754808,
+        "y2": 465.4184201327238,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 18.105456580528845,
+        "height": 61.79846890536222,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 1476.485018329327,
+                "y": 433.89499545010653,
+                "confidence": 0.999560534954071,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 6.562546332133934e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A57": {
+        "name": "wall",
+        "confidence": 0.8405429720878601,
+        "x1": 1015.65823433744,
+        "y1": 1158.6503766424005,
+        "x2": 1082.9955481144832,
+        "y2": 1158.6503766424005,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 67.33731377704326,
+        "height": 22.2591064453125,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 1048.9978665865385,
+                "y": 1157.4420783025569,
+                "confidence": 0.9995505213737488,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 8.939322287915275e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A58": {
+        "name": "wall",
+        "confidence": 0.8330391049385071,
+        "x1": 2020.2070788010817,
+        "y1": 614.3959017666904,
+        "x2": 2109.186778170072,
+        "y2": 614.3959017666904,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 88.97969936899038,
+        "height": 21.422962979403408,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 2066.181832481971,
+                "y": 612.859589621804,
+                "confidence": 0.9995599389076233,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.0005025831633247435,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A59": {
+        "name": "wall",
+        "confidence": 0.8258200287818909,
+        "x1": 1242.7943666240988,
+        "y1": 587.8610732199929,
+        "x2": 1348.9258491210937,
+        "y2": 587.8610732199929,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 106.13148249699519,
+        "height": 19.375984330610795,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 1293.9290629507211,
+                "y": 586.6901087535512,
+                "confidence": 0.9997233748435974,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.00027883637812919915,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A60": {
+        "name": "wall",
+        "confidence": 0.8205596208572388,
+        "x1": 877.2250240384616,
+        "y1": 770.3035946377842,
+        "x2": 1345.6996131310098,
+        "y2": 770.3035946377842,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 468.47458909254806,
+        "height": 18.299770951704545,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 1107.0305318509616,
+                "y": 769.3888935990767,
+                "confidence": 0.9999891519546509,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 1.5534842532360926e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A61": {
+        "name": "wall",
+        "confidence": 0.8162975907325745,
+        "x1": 829.5682263371394,
+        "y1": 1062.4716384055398,
+        "x2": 896.1922813251202,
+        "y2": 1062.4716384055398,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 66.62405498798077,
+        "height": 22.188920454545457,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 862.698483173077,
+                "y": 1062.1497975852274,
+                "confidence": 0.9997063279151917,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 3.2154137443285435e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A62": {
+        "name": "slider",
+        "confidence": 0.812674880027771,
+        "x1": 445.58241216571514,
+        "y1": 292.59740445223724,
+        "x2": 719.784566049429,
+        "y2": 292.59740445223724,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 274.20215388371395,
+        "height": 24.78611921830611,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 584.722634765625,
+                "y": 292.469843528054,
+                "confidence": 0.999988317489624,
+                "class_id": 0,
+                "class_name": "window"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 9.045444130606484e-06,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A63": {
+        "name": "wall",
+        "confidence": 0.8073754906654358,
+        "x1": 1161.7776731520432,
+        "y1": 688.7516591574929,
+        "x2": 1161.7776731520432,
+        "y2": 778.7041389604049,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 15.450076622596153,
+        "height": 89.95247980291194,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 1161.6065494290865,
+                "y": 733.8137289151279,
+                "confidence": 0.999830961227417,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 2.858846346498467e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A64": {
+        "name": "wall",
+        "confidence": 0.8007473945617676,
+        "x1": 1476.655541015625,
+        "y1": 563.3922285045278,
+        "x2": 1476.655541015625,
+        "y2": 625.0715503484553,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 14.594887319711539,
+        "height": 61.67932184392756,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 1475.6494056490385,
+                "y": 593.0880268998579,
+                "confidence": 0.9992964267730713,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.00010075050522573292,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A65": {
+        "name": "wall",
+        "confidence": 0.7983217835426331,
+        "x1": 1592.4416470853366,
+        "y1": 1051.2687704190341,
+        "x2": 1592.4416470853366,
+        "y2": 1423.990713334517,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 14.199920372596154,
+        "height": 372.72194291548294,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 1592.4653451021634,
+                "y": 1237.5827257191052,
+                "confidence": 0.9999856948852539,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 7.043075129331555e-06,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A66": {
+        "name": "wall",
+        "confidence": 0.7969460487365723,
+        "x1": 342.0416123234676,
+        "y1": 218.12300736860797,
+        "x2": 398.8354981032152,
+        "y2": 218.12300736860797,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 56.7938857797476,
+        "height": 24.418911188299006,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 370.7409195838341,
+                "y": 218.07582208806818,
+                "confidence": 0.9987804293632507,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 7.039073534542695e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A67": {
+        "name": "wall",
+        "confidence": 0.7917044162750244,
+        "x1": 1073.6024184194712,
+        "y1": 1325.7301148570668,
+        "x2": 1073.6024184194712,
+        "y2": 1422.2506504128196,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 13.765027418870192,
+        "height": 96.52053555575284,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 1073.5946908052886,
+                "y": 1372.1446602006392,
+                "confidence": 0.9992351531982422,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.0007907927501946688,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A68": {
+        "name": "wall",
+        "confidence": 0.7827354669570923,
+        "x1": 1955.4032204026441,
+        "y1": 1148.1198566228693,
+        "x2": 1955.4032204026441,
+        "y2": 1430.621513671875,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 12.30923076923077,
+        "height": 282.5016570490057,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 1954.971160907452,
+                "y": 1289.8018639026989,
+                "confidence": 0.999828577041626,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 6.866242620162666e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A69": {
+        "name": "wall",
+        "confidence": 0.7671999931335449,
+        "x1": 1297.6317063551683,
+        "y1": 218.48772083629262,
+        "x2": 1349.7329984224762,
+        "y2": 218.48772083629262,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 52.10129206730769,
+        "height": 23.76320068359375,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 1325.3095303485577,
+                "y": 219.00559620250357,
+                "confidence": 0.999725878238678,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 8.589647768530995e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A71": {
+        "name": "wall",
+        "confidence": 0.7248522043228149,
+        "x1": 2095.2170548377403,
+        "y1": 513.0842844460228,
+        "x2": 2095.2170548377403,
+        "y2": 1343.6509237393466,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 20.91229777644231,
+        "height": 830.5666392933239,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 2094.5013060396636,
+                "y": 924.6649971147017,
+                "confidence": 0.9999667406082153,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 2.3865812181611545e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A72": {
+        "name": "wall",
+        "confidence": 0.6884601712226868,
+        "x1": 669.1044036959134,
+        "y1": 972.2148219992898,
+        "x2": 669.1044036959134,
+        "y2": 1168.4731174538354,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 17.044541015625,
+        "height": 196.25829545454545,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 669.2221210186298,
+                "y": 1068.559892578125,
+                "confidence": 0.9999791383743286,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 2.375581971136853e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A73": {
+        "name": "wall",
+        "confidence": 0.6081591248512268,
+        "x1": 2054.09592976262,
+        "y1": 1299.4208962180398,
+        "x2": 2104.899841271034,
+        "y2": 1299.4208962180398,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 50.803911508413464,
+        "height": 24.527551491477272,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 2078.283104567308,
+                "y": 1299.1955399946733,
+                "confidence": 0.9998430013656616,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 3.354192085680552e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A74": {
+        "name": "wall",
+        "confidence": 0.45775941014289856,
+        "x1": 1951.339439828726,
+        "y1": 1300.4422292258523,
+        "x2": 1987.9193894981972,
+        "y2": 1300.4422292258523,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 36.579949669471155,
+        "height": 25.62084628018466,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 1968.2109681490385,
+                "y": 1299.8885209517045,
+                "confidence": 0.9997332692146301,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 1.849521868280135e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A75": {
+        "name": "slider",
+        "confidence": 0.4474577307701111,
+        "x1": 838.3256739032452,
+        "y1": 1173.882723832564,
+        "x2": 838.3256739032452,
+        "y2": 1401.3085883123226,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 26.56444651442308,
+        "height": 227.42586447975853,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 836.5703034104567,
+                "y": 1287.1106116832386,
+                "confidence": 0.9998971223831177,
+                "class_id": 0,
+                "class_name": "window"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 6.128465611254796e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A76": {
+        "name": "wall",
+        "confidence": 0.3375140428543091,
+        "x1": 1156.3254549654448,
+        "y1": 217.72611827503553,
+        "x2": 1198.2730913085938,
+        "y2": 217.72611827503553,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 41.947636343149036,
+        "height": 20.9702421985973,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 1178.3248134014423,
+                "y": 216.49712352405896,
+                "confidence": 0.9988847374916077,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 9.753080666996539e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A77": {
+        "name": "wall",
+        "confidence": 0.19367635250091553,
+        "x1": 667.732580453726,
+        "y1": 864.4734068714489,
+        "x2": 667.732580453726,
+        "y2": 903.2595383522727,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 16.479995868389423,
+        "height": 38.78613148082386,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 669.2444881685697,
+                "y": 882.1450554865057,
+                "confidence": 0.9941826462745667,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.003008797997608781,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A78": {
+        "name": "wall",
+        "confidence": 0.04867507889866829,
+        "x1": 2093.428198016827,
+        "y1": 404.24373979048295,
+        "x2": 2093.428198016827,
+        "y2": 1427.149590287642,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 24.543761268028845,
+        "height": 1022.9058504971591,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 2090.689016376202,
+                "y": 926.6891441761364,
+                "confidence": 0.9986314177513123,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.0016990910517051816,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A79": {
+        "name": "wall",
+        "confidence": 0.029333636164665222,
+        "x1": 1068.745698768029,
+        "y1": 1051.7215123401988,
+        "x2": 1068.745698768029,
+        "y2": 1170.4390016867897,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 28.254733323317307,
+        "height": 118.71748934659091,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 1066.2354262319711,
+                "y": 1111.8273572887074,
+                "confidence": 0.9943130016326904,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.000319129932904616,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A80": {
+        "name": "wall",
+        "confidence": 0.011819093488156796,
+        "x1": 403.45564543269234,
+        "y1": 249.38193445379085,
+        "x2": 403.45564543269234,
+        "y2": 322.8652503828569,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 57.02751731520433,
+        "height": 73.48331592906605,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 405.12240594951925,
+                "y": 297.54653153852985,
+                "confidence": 0.9990028738975525,
+                "class_id": 0,
+                "class_name": "wall"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 8.194151450879872e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A18": {
+        "name": "window",
+        "confidence": 0.8972124457359314,
+        "x1": 893.5612004206731,
+        "y1": 1063.915440340909,
+        "x2": 963.1760138221154,
+        "y2": 1063.915440340909,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 69.6148134014423,
+        "height": 25.495018865411932,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 928.2319142127404,
+                "y": 1063.4276054243608,
+                "confidence": 0.999874472618103,
+                "class_id": 0,
+                "class_name": "window"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.00013276591198518872,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A19": {
+        "name": "window",
+        "confidence": 0.8956114649772644,
+        "x1": 893.4842677283654,
+        "y1": 1158.7658030007103,
+        "x2": 1018.3006920072115,
+        "y2": 1158.7658030007103,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 124.81642427884616,
+        "height": 27.84481201171875,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 955.4356920072115,
+                "y": 1158.4747425426137,
+                "confidence": 0.9999932050704956,
+                "class_id": 0,
+                "class_name": "window"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 3.5809731343761086e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A28": {
+        "name": "window",
+        "confidence": 0.881853461265564,
+        "x1": 710.82544921875,
+        "y1": 1158.0667336203835,
+        "x2": 778.1278170072114,
+        "y2": 1158.0667336203835,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 67.30236778846154,
+        "height": 26.96748712713068,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 744.7540544621394,
+                "y": 1156.9027454723011,
+                "confidence": 0.9999099969863892,
+                "class_id": 0,
+                "class_name": "window"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 5.210295057622716e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A42": {
+        "name": "window",
+        "confidence": 0.8672999143600464,
+        "x1": 1208.2398246319112,
+        "y1": 324.4199863503196,
+        "x2": 1288.628907038762,
+        "y2": 324.4199863503196,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 80.38908240685096,
+        "height": 24.055191317471593,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 1247.6448612530048,
+                "y": 323.816830777255,
+                "confidence": 0.9999799728393555,
+                "class_id": 0,
+                "class_name": "window"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 5.1139923016307876e-06,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A43": {
+        "name": "window",
+        "confidence": 0.8629168272018433,
+        "x1": 1988.0952356520431,
+        "y1": 1300.7847030362216,
+        "x2": 2052.5375275691104,
+        "y2": 1300.7847030362216,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 64.44229191706731,
+        "height": 28.007339089133524,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 2020.8902857572116,
+                "y": 1299.50765625,
+                "confidence": 0.9985148310661316,
+                "class_id": 0,
+                "class_name": "window"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 0.00027761669480241835,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A47": {
+        "name": "window",
+        "confidence": 0.8594465851783752,
+        "x1": 1476.26040234375,
+        "y1": 463.8399752530185,
+        "x2": 1476.26040234375,
+        "y2": 566.2185041947798,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 18.732251953125,
+        "height": 102.37852894176136,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [
+            {
+                "x": 1476.1226790865385,
+                "y": 514.741434881037,
+                "confidence": 0.9999449253082275,
+                "class_id": 0,
+                "class_name": "window"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 3.321793337818235e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A53": {
+        "name": "window",
+        "confidence": 0.8468031287193298,
+        "x1": 254.83245962289664,
+        "y1": 323.8989822110263,
+        "x2": 331.0294830603966,
+        "y2": 323.8989822110263,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 76.1970234375,
+        "height": 25.73732965642756,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 292.37031146709734,
+                "y": 323.199257479581,
+                "confidence": 0.9999172687530518,
+                "class_id": 0,
+                "class_name": "window"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 5.832868555444293e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A70": {
+        "name": "window",
+        "confidence": 0.733981192111969,
+        "x1": 242.84145629882812,
+        "y1": 217.9436102849787,
+        "x2": 343.28820528470555,
+        "y2": 217.9436102849787,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 100.4467489858774,
+        "height": 22.540209794477985,
+        "facing": "Facing not available",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [
+            {
+                "x": 292.36485920597954,
+                "y": 217.49606889204546,
+                "confidence": 0.9998041987419128,
+                "class_id": 0,
+                "class_name": "window"
+            },
+            {
+                "x": 0.0,
+                "y": 0.0,
+                "confidence": 3.8584643334615976e-05,
+                "class_id": 1,
+                "class_name": "keypoint_1"
+            }
+        ]
+    },
+    "A81_manual": {
+        "name": "slider",
+        "confidence": 1,
+        "x1": 1487.1454459816694,
+        "y1": 412.7030965909091,
+        "x2": 2021.7229741576505,
+        "y2": 412.7030965909091,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 534.577528175981,
+        "height": 27.70909090909091,
+        "facing": "Manually drawn",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [],
+        "manual": true,
+        "x": 1754.43421006966,
+        "y": 412.7030965909091
+    },
+    "A82_manual": {
+        "name": "slider",
+        "confidence": 1,
+        "x1": 406.73612587863306,
+        "y1": 217.3540056818182,
+        "x2": 1155.1446653250068,
+        "y2": 217.3540056818182,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 748.4085394463739,
+        "height": 19.39636363636364,
+        "facing": "Manually drawn",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [],
+        "manual": true,
+        "x": 780.94039560182,
+        "y": 217.3540056818182
+    },
+    "A83_manual": {
+        "name": "slider",
+        "confidence": 1,
+        "x1": 1200.1617203293,
+        "y1": 217.3540056818182,
+        "x2": 1295.8229622134231,
+        "y2": 217.3540056818182,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 95.66124188412303,
+        "height": 19.39636363636364,
+        "facing": "Manually drawn",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [],
+        "manual": true,
+        "x": 1247.9923412713615,
+        "y": 217.3540056818182
+    },
+    "A84_manual": {
+        "name": "wall",
+        "confidence": 1,
+        "x1": 679.6520218421605,
+        "y1": 890.6849147727273,
+        "x2": 921.6186924902362,
+        "y2": 890.6849147727273,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 241.9666706480758,
+        "height": 19.39636363636364,
+        "facing": "Manually drawn",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Horizontal",
+        "keypoints": [],
+        "manual": true,
+        "x": 800.6353571661983,
+        "y": 890.6849147727273
+    },
+    "A85_manual": {
+        "name": "wall",
+        "confidence": 1,
+        "x1": 1011.6528024988224,
+        "y1": 883.7576420454545,
+        "x2": 1011.6528024988224,
+        "y2": 1050.0121875,
+        "TopX": null,
+        "TopY": null,
+        "BottomX": null,
+        "BottomY": null,
+        "width": 11.2542637510734,
+        "height": 166.25454545454545,
+        "facing": "Manually drawn",
+        "slope": "N/A",
+        "angle": "N/A",
+        "orientation": "Vertical",
+        "keypoints": [],
+        "manual": true,
+        "x": 1011.6528024988224,
+        "y": 966.8849147727273
+    }
+}
