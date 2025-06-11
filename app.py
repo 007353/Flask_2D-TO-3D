@@ -10,10 +10,28 @@ from flask import Flask, request, jsonify, render_template, send_from_directory
 from flask_cors import CORS
 from werkzeug.utils import secure_filename
 import numpy as np
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 # Create Flask app
 app = Flask(__name__)
-CORS(app) # Enable CORS for all routes
+
+# Configure CORS
+allowed_origins = [
+    'http://localhost:3000',  # React development server
+    'https://flask-2d-to-3d.onrender.com',  # Render deployment
+    'https://my-app-henna-seven-69.vercel.app'  # Vercel deployment
+]
+
+CORS(app, resources={
+    r"/api/*": {
+        "origins": allowed_origins,
+        "methods": ["GET", "POST", "OPTIONS"],
+        "allow_headers": ["Content-Type", "Authorization"]
+    }
+})
 
 # Configuration
 app.config['UPLOAD_FOLDER'] = 'static/uploads'
