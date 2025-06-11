@@ -18,6 +18,7 @@ load_dotenv()
 # Create Flask app
 app = Flask(__name__)
 
+CORS(app)
 # Configure CORS
 allowed_origins = [
     'http://localhost:3000',  # React development server
