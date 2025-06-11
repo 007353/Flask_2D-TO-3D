@@ -22,7 +22,8 @@ app = Flask(__name__)
 allowed_origins = [
     'http://localhost:3000',  # React development server
     'https://flask-2d-to-3d.onrender.com',  # Render deployment
-    'https://my-app-henna-seven-69.vercel.app'  # Vercel deployment
+    'my-app-henna-seven-69.vercel.app',
+    'my-8dcf953x1-007353s-projects.vercel.app'
 ]
 
 CORS(app, resources={
